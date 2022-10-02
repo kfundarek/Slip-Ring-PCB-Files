@@ -1,0 +1,79 @@
+*************************************************************
+FileName = PCB1.GBR
+AutoAperture = True
+*************************************************************
+Generating : Mechanical 1
+      File : PCB1.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : PCB1.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : PCB1.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : PCB1.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : PCB1.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+

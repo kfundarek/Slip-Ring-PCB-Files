@@ -1,0 +1,17 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[PCB1.GTS]
+   Generated File[PCB1.GTL]
+   Generated File[PCB1.GBL]
+   Generated File[PCB1.GBS]
+   Generated File[PCB1.GM1]
+   Generated File[PCB1.RUL]
+   Generated File[PCB1.EXTREP]
+   Generated File[PCB1.REP]
+
+
+Files Generated   : 8
+Documents Printed : 0
+
+Finished Output Generation At 9:44:17 AM On 7/21/2022
